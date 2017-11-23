@@ -1,5 +1,5 @@
 # JavaSingletonSample
-Sample of Java Singleton Pattern  
+Sample of Java Singleton Design Pattern  
 
 Requirement
 -----------
