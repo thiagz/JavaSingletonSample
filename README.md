@@ -13,6 +13,10 @@ java.lang.Runtime#getRuntime()
 java.awt.Desktop#getDesktop()  
 java.lang.System#getSecurityManager()  
 
+Type
+-----  
+Creational Pattern   
+
 Author
 ------
 Thiagu Subbiah  
